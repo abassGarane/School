@@ -1,0 +1,26 @@
+Main Components of a School management System
+---------------------------------------------
+1. Admission / Registration
+-->Admission form
+-->Admission inquiry details
+--> Direct link With student management system
+
+2. Fees
+-->Auto reciept generation
+-->Reports generation
+--SMS alerts for fees payments
+
+
+3. Assessment Reports
+-->Assessment results published online
+-->Marks converter
+-->User-defined marksheets generator
+-->Statistical and charts reports
+
+
+4. Academics
+-->Homework assignments
+-->Organize lesson plan
+-->Syllabus scheduling
+-->Online portals for teachers and students
+

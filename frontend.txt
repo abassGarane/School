@@ -1,0 +1,35 @@
+FrontEnd Design template
+------------------------
+PAGES
+.....
+1. Teachers page
+2. Student page
+3. Students' list page(Returns all students)
+4. Classes page
+5. Admission page
+6. Class result page
+7. Principal's page
+8. School results' page
+9. Home page
+10. Fees dashboard(all students)
+11. Student fees page
+12. Subjects standardization page
+13. Subjects registration page
+14. Class registration page
+15. Subjects results entry page
+
+
+-----MORE
+
+Components
+..........
+1. Sidebar(Reusable across pages)
+2. Footer(Simple)
+3. Header(School Name)
+
+
+
+Themes
+......
+->ColorScheme
+    --Based on black and gray colors
